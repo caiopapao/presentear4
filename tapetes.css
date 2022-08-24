@@ -1,0 +1,30 @@
+.tapetes{
+    padding-top: 1.75em;
+    background-color: #FFE4C4;
+    align-items: center;
+    text-align: center;
+}
+
+.tapetes__titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 1em;
+}
+
+
+.tapetes__foto1, .tapetes__foto2{
+    width: 350px;
+    height: 350px;
+    margin-bottom: 1em;    
+}
+
+.tapetes__vejaMais{
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    align-items: center;
+}
+
